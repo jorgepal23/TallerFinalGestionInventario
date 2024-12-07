@@ -1,0 +1,7 @@
+ID: 1, Nombre: Arroz, Categoría: Granos, Precio: 1500.00, Cantidad: 22, Valor: 33000.00
+ID: 2, Nombre: Frijol, Categoría: Granos, Precio: 1000.00, Cantidad: 22, Valor: 22000.00
+ID: 3, Nombre: Lentejas, Categoría: Granos, Precio: 3000.00, Cantidad: 22, Valor: 66000.00
+ID: 4, Nombre: Pechuga, Categoría: Frios, Precio: 1000.00, Cantidad: 22, Valor: 22000.00
+ID: 6, Nombre: , Categoría: Frios, Precio: 4500.00, Cantidad: 25, Valor: 112500.00
+ID: 5, Nombre: , Categoría: Carnes, Precio: 251.00, Cantidad: 652, Valor: 163652.00
+Valor total del inventario: 419152.0

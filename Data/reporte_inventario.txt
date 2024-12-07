@@ -1,0 +1,26 @@
+Reporte de Inventario
+Jorge Enrique Calderon Rocha
+Fecha: 2024-12-06
+Hora: 22:25:12.193532400
+ID: 1; Nombre: Arroz; Categoría: Granos; Precio: 1500.00; Cantidad: 22; Valor: 33000.00
+ID: 3; Nombre: Lentejas; Categoría: Granos; Precio: 3000.00; Cantidad: 22; Valor: 66000.00
+ID: 4; Nombre: Pechuga; Categoría: Frios; Precio: 1000.00; Cantidad: 22; Valor: 22000.00
+ID: 6; Nombre: ; Categoría: Frios; Precio: 4500.00; Cantidad: 25; Valor: 112500.00
+ID: 5; Nombre: ; Categoría: Carnes; Precio: 251.00; Cantidad: 652; Valor: 163652.00
+ID: 7; Nombre: ; Categoría: Clima; Precio: 2500.00; Cantidad: 54; Valor: 135000.00
+ID: 8; Nombre: ; Categoría: Calientes; Precio: 6500.00; Cantidad: 12; Valor: 78000.00
+ID: 9; Nombre: ; Categoría: frios; Precio: 4500.00; Cantidad: 12; Valor: 54000.00
+ID: 10; Nombre: ; Categoría: Frigos; Precio: 8541.00; Cantidad: 352; Valor: 3006432.00
+ID: 11; Nombre: ; Categoría: Varios; Precio: 7485.00; Cantidad: 21; Valor: 157185.00
+ID: 12; Nombre: ; Categoría: Mazorca; Precio: 1520.00; Cantidad: 452; Valor: 687040.00
+ID: 14; Nombre: ; Categoría: Granos; Precio: 9562.00; Cantidad: 362; Valor: 3461444.00
+ID: 15; Nombre: ; Categoría: Frutas; Precio: 325.00; Cantidad: 12; Valor: 3900.00
+ID: 17; Nombre: ; Categoría: Frutas; Precio: 15244.00; Cantidad: 32; Valor: 487808.00
+ID: 16; Nombre: ; Categoría: sddd; Precio: 2515.00; Cantidad: 6161; Valor: 15494915.00
+ID: 19; Nombre: Carlitos; Categoría: ; Precio: 5151.00; Cantidad: 6262; Valor: 32255562.00
+ID: 20; Nombre: Jorgito; Categoría: Rico; Precio: 21515.00; Cantidad: 2151; Valor: 46278765.00
+ID: 20; Nombre: Aguacate; Categoría: Verduras; Precio: 7455.00; Cantidad: 6521; Valor: 48614055.00
+ID: 21; Nombre: Peras; Categoría: Frutass; Precio: 3622.00; Cantidad: 45; Valor: 162990.00
+ID: 25; Nombre: Jorgito; Categoría: Frutas; Precio: 95844.00; Cantidad: 625; Valor: 59902500.00
+ID: 26; Nombre: dsfsfd; Categoría: sdaasd; Precio: 5151.00; Cantidad: 32; Valor: 164832.00
+Valor total del inventario: 2.1134158E8Fin del reporte
